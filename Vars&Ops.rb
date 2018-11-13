@@ -18,7 +18,5 @@ y = i ** 9
 
 puts a.to_s + ' ' + b.to_s + ' ' + c.to_s + ' ' + x.to_s + ' ' + y.to_s
 
-
-
 #sleeps the program for 100 seconds
 sleep(100)
