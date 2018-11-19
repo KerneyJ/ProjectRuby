@@ -1,2 +1,1 @@
-# ProjectRuby
-Test ruby project
+# README
