@@ -15,4 +15,7 @@ You will not need to make a server for this project because everything that is n
 if you are using windows then open up command prompt and using the command ```cd [directory]``` make sure that the directory that you are trying to get to is within the directory that you are currently in. To better navigate your computer with command prompt use the command ```dir``` which will give you a list of all of the folders and files within the directory that you command prompt is in. If you want to access another hard drive or solid state drive(SSD) use the command ```cd/``` then ```[Drive letter]:```
 
 ### Step 2: creating the server
-Once in the ideal directory use the command ```rails new [server name]```, this command will make a server in the directory
+Once in the ideal directory use the command ```rails new [server name]```, this command will make a server in the directory that command prompt is in.
+
+### Step 3: testing
+Now it is likely that you would like to see if your server works to do that type the command ```rails server```. Be sure that you are in the directory of the server, when you execute that command into command prompt. Once the server is up and running go to a web browser and type http://localhost:3000 . This should take you a default page set up by rails. 
