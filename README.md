@@ -1,4 +1,4 @@
-# Overview 11/23/2018
+# Overview
 ## Installation and Setup
 ### Step 1 getting ruby
 The following link will take you to the ruby install page: https://rubyinstaller.org/downloads/ . Click on the newest version and follow through the installation.
