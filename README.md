@@ -18,4 +18,9 @@ if you are using windows then open up command prompt and using the command ```cd
 Once in the ideal directory use the command ```rails new [server name]```, this command will make a server in the directory that command prompt is in.
 
 ### Step 3: testing
-Now it is likely that you would like to see if your server works to do that type the command ```rails server```. Be sure that you are in the directory of the server, when you execute that command into command prompt. Once the server is up and running go to a web browser and type http://localhost:3000 . This should take you a default page set up by rails. 
+Now it is likely that you would like to see if your server works to do that type the command ```rails server```. Be sure that you are in the directory of the server, when you execute that command into command prompt. Once the server is up and running go to a web browser and type http://localhost:3000 . This should take you a default page set up by rails.
+
+## Links
+Here are some other links that can help you learn how to use ruby on rails:
+Ruby: https://www.youtube.com/watch?v=Dji9ALCgfpM
+Ruby on Rails: https://www.youtube.com/watch?v=pPy0GQJLZUM&t=1521s
