@@ -22,5 +22,7 @@ Now it is likely that you would like to see if your server works to do that type
 
 ## Links
 Here are some other links that can help you learn how to use ruby on rails:
+
 Ruby: https://www.youtube.com/watch?v=Dji9ALCgfpM
+
 Ruby on Rails: https://www.youtube.com/watch?v=pPy0GQJLZUM&t=1521s
