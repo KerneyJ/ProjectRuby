@@ -1,5 +1,14 @@
 # Project Ruby
 
+## What needs to get done
+- create webpage with rails √
+- create some mechanism that allows live updates
+- have functioning live updates
+- integrate *other dependencies*
+  - redis
+  - postgres sql
+  - thin
+- Figure out how to integrate it into Purchasing Platform
 
 ## Getting Started
 ### Installation and Setup
