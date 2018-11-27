@@ -9,6 +9,7 @@
   - postgres sql
   - thin
 - Figure out how to integrate it into Purchasing Platform
+contact Jamie for further explanation on this list of task to be completed
 
 ## Getting Started
 ### Installation and Setup
@@ -16,7 +17,7 @@
 The following link will take you to the ruby install page: https://rubyinstaller.org/downloads/ . Click on the newest version and follow through the installation.
 
 #### Step 2 getting rails
-The following link will take you to the rails install page: http://railsinstaller.org/en . Click either version  of rails and run the installer. 
+The following link will take you to the rails install page: http://railsinstaller.org/en . Click either version  of rails and run the installer.
 
 #### Step 3 getting a text editor
 Their are many text editors that will work, you may have a text editor that works but if not the you should use Atom editor. This link is to download atom text editor: https://atom.io/ .
@@ -50,5 +51,3 @@ Here are some other links that can help you learn how to use ruby on rails:
 Ruby: https://www.youtube.com/watch?v=Dji9ALCgfpM
 
 Ruby on Rails: https://www.youtube.com/watch?v=pPy0GQJLZUM&t=1521s
-
-
