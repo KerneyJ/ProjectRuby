@@ -9,6 +9,7 @@
   - postgres sql
   - thin
 - Figure out how to integrate it into Purchasing Platform
+
 contact Jamie for further explanation on this list of task to be completed
 
 ## Getting Started
