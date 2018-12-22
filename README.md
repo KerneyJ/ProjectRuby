@@ -35,6 +35,9 @@ https://redis.io/
 #### PostgreSQL
 https://www.postgresql.org/
 
+#### PG Admin
+https://www.pgadmin.org/download/pgadmin-4-windows/
+
 ### Creating a webserver
 You will not need to make a server for this project because everything that is needed has already been created, but if you wanted to make a project on your own you would need to go through the following process.
 #### Step 1: find a directory
