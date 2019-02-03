@@ -1,6 +1,6 @@
 class HomepageController < ApplicationController
 	def page1
-		@notifications = Notification.all
+		@notifications = Notification.all.values
 	end
 
 	def list
